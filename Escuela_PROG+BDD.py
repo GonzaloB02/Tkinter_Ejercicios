@@ -6,7 +6,7 @@ import mysql.connector
 
 conexion = mysql.connector.connect(host="127.0.0.1", user="root", password="GonzaloB02", database="ESCUELA")
 
-def eliminar_alumno():
+def eliminar_alumno(): #Se intento pero no se pudo
     return
 
 def cancelar_cambios():
